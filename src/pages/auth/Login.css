@@ -1,0 +1,15 @@
+.password__icon {
+  margin-top: 1rem;
+}
+
+.update.password__icon {
+  margin-top: -2.5rem;
+  margin-left: 26rem;
+}
+
+@media (max-width: 768px) {
+  .update.password__icon {
+    margin-top: -2.5rem;
+    margin-left: 14rem;
+  }
+}

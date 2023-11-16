@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "department": "Software And Automation",
+      "branch_code": null,
+      "company": 1,
+      "location": 1,
+      "createdAt": "2022-12-30T15:34:40.000Z",
+      "updatedAt": "2022-12-30T15:34:40.000Z"
+    },
+    {
+      "id": 2,
+      "department": "Design",
+      "branch_code": null,
+      "company": 1,
+      "location": 1,
+      "createdAt": "2022-12-30T15:37:35.000Z",
+      "updatedAt": "2022-12-30T15:37:35.000Z"
+    },
+    {
+      "id": 3,
+      "department": "Support",
+      "branch_code": null,
+      "company": 1,
+      "location": 1,
+      "createdAt": "2022-12-30T15:37:46.000Z",
+      "updatedAt": "2022-12-30T15:37:46.000Z"
+    }
+  ]
+}

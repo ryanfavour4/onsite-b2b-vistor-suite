@@ -1,0 +1,28 @@
+.slide-select-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.slide-img-container {
+    display: flex;
+    margin-bottom: 2%;
+}
+.slide-img-container .img-container {
+  width: 100px;
+  height: 100px;
+  border: 1px solid #cccc;
+  margin-right: 10px;
+  margin-top: 2%;
+}
+.img-container img {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    bottom: 10px;
+}
+span.remove-image {
+    position: relative;
+    bottom: 10px;
+    left: 95%;
+    cursor: pointer;
+}

@@ -1,0 +1,19 @@
+.contact h2 {
+  font-weight: bold;
+}
+
+.contact input {
+  border: 0.3px solid black;
+}
+
+.contact .btn {
+  color: #000;
+}
+
+.contact .btn:hover {
+  color: white;
+}
+
+.contact form > div {
+  margin-bottom: 1rem;
+}

@@ -1,0 +1,8 @@
+.billing__history {
+  position: relative;
+}
+
+.billing__history .billing__history__action {
+  position: absolute;
+  right: 1rem;
+}
